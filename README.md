@@ -1,4 +1,4 @@
-## Hello! Eu sou Felipe Santos
+## Hello! Eu sou o Felipe Santos
 <i class="devicon-python-plain colored"></i>
 
 <div align="center">
