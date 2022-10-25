@@ -1,4 +1,3 @@
-## Hello! Eu sou o Felipe Santos
 
 <div align="center">
   <a href="https://github.com/felipesannt">
