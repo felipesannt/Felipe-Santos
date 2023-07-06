@@ -3,7 +3,7 @@
   <a href="https://github.com/felipesannt">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipesannt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ca76e0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Santos;I'm+29+years+old;I+from+Brasil,+PE;Be+Welcome!+:%29)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ca76e0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Santos;I'm+30+years+old;I+from+Brasil,+PE;Be+Welcome!+:%29)](https://git.io/typing-svg)    
     
 ##
 
